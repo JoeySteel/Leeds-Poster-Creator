@@ -1,5 +1,5 @@
 {
-  "name": "Leeds-Poster-Creator",
+  "name": "festival-poster-creator-leeds-main",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,12 +22,6 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0",
     "sass-loader": "^10.3.0"
-    ],
-       "scripts": {
-    "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
-    "build": "webpack --config=Scripts/config/webpack.prod.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   },
   "eslintConfig": {
     "root": true,
@@ -47,6 +41,5 @@
     "> 1%",
     "last 2 versions",
     "not dead"
- 
   ]
 }
